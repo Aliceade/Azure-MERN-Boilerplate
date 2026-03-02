@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
- "scripts": {
-    "start": "react-scripts start",
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "scripts": {
+    "start": "new-index.js" 
   },
   "author": "",
   "license": "ISC",

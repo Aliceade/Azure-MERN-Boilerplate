@@ -62,4 +62,5 @@ jobs:
           app-name: 'Azure-MERN-Boilerplate'
           slot-name: 'Production'
           package: .
+
           
